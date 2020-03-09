@@ -31,8 +31,6 @@ nav {
   display: block !important;
   float: right;
   width: 30%;
-  padding: .75em 1em 0 0;
-  height: 1.5em;
 }
 
 .site-nav {
@@ -43,7 +41,7 @@ nav {
 	left: 0;
 	display: block !important;
 	width: 80%;
-	padding: .75em 1em 0 0;
+	padding: .25em .20em 0 0;
 	opacity: .95;
 	background: none;
 }
