@@ -100,11 +100,9 @@ nav {
 .InfomationHolder {
 
 	position:relative;
-	flex-direction: column;
-	background:#FFFFFF;
+	background:grey;
   	z-index: 100;
   	width: 100%;
-	overflow: auto;
   
 }
 
@@ -133,7 +131,6 @@ nav {
 	height: 10em;
 	display: block;
 	float: right;
-	/*display: inline-block;*/
 	
 }
 
