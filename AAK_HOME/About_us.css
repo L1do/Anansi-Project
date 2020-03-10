@@ -31,7 +31,6 @@ nav {
   display: block !important;
   float: right;
   width: 30%;
-  padding: .75em 1em 0 0;
   height: 1.5em;
   font: bolder;
 }
@@ -44,7 +43,7 @@ nav {
 	left: 0;
 	display: block !important;
 	width: 80%;
-	padding: .75em 1em 0 0;
+	padding: .25em .20em 0 0;
 	opacity: .95;
 	background: none;
 	font: bolder;
@@ -87,6 +86,18 @@ nav {
 	position: relative;
 	float: left;	
 }
+
+.under_contruction {
+
+	max-width:50%;
+	height:50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+
 
 h1 {
 	padding-top: 2em;
